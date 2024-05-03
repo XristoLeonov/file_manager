@@ -1,0 +1,1 @@
+base_dir = r'C:\Users\Admin\laba5'
